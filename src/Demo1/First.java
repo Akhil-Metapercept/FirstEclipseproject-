@@ -7,7 +7,7 @@ public class First {
 		System.out.println("Akhil");
 		System.out.println("Meta");
 		System.out.println("Percept");
-		System.out.println("xyzzz");
+		
 		
 		
 		
