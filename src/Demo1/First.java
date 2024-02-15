@@ -3,9 +3,10 @@ package Demo1;
 public class First {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		System.out.println("Akhil");
-		System.out.println("Metapercept");
+		String abc ="Hello";
+		String  xyz =" World";
+	String str = abc.concat(xyz);
+	System.out.println(str);
 		
 		
 		
